@@ -274,8 +274,8 @@ header {
      float: left;
      width: 120px;
      height: 100%;
-     background: #0808ff;
-     border-right: #fff solid 7px;
+     background: #0808ff00;
+     /* border-right: #fff solid 7px; */
      padding: 33px;
      position: absolute;
      top: 0;
